@@ -11,7 +11,7 @@ I'm passionate about:
 I believe programming languages are merely tools for expressing solutions to problems, and should communicate the solution to the next developer as effectively as possible without incurring a performance cost. Thus, I dabble in many languages.
 I've spent most of my career writing full stack **JS**, but I swear by **Rust** and **Golang**. I mostly write frontends in **React**.
 
-I've dabbled in:
+I have however dabbled in:
 - C++
 - haskell
 - python
