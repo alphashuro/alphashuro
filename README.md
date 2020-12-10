@@ -18,6 +18,8 @@ I have however dabbled in:
 - ruby
 - Java
 
+[![](jsnsd-openjs-node-js-services-developer.png)](https://www.youracclaim.com/badges/b3f92720-7d39-43f7-99c5-106680137a30/public_url)
+
 I'm currently learning Machine Learning.
 
 You can reach me at alphashuro@gmail.com
