@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alpha, a stoic who greatly values technological advancement for the greater good of mankind, while still having a bit of fun.
+I'm Alpha, a stoic philosopher who greatly values technological advancement for the greater good of mankind, while still having a bit of fun.
 
 I'm passionate about:
 - practical philosophy
