@@ -22,7 +22,7 @@ I have dabbled in:
 
 I'm currently learning Machine Learning and doing some freelance full-stack development on the side.
 
-You can reach me at alphashuro@gmail.com
+You can reach me at alphashuro[at]gmail.com
 
 Fun fact: Some day in the far future, someone will have the very last memory of you for the very last time...
 
