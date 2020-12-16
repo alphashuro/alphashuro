@@ -19,6 +19,7 @@ I have dabbled in:
 - java
 
 [![](jsnsd-openjs-node-js-services-developer.png)](https://www.youracclaim.com/badges/b3f92720-7d39-43f7-99c5-106680137a30/public_url)
+*👆🏿 click for more details on my node developer certification*
 
 I'm currently learning Machine Learning and doing some freelance full-stack development on the side.
 
