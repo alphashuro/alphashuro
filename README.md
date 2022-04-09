@@ -1,17 +1,26 @@
 ### Hi there 👋
 
-I'm Alpha, a stoic philosopher who greatly values technological advancement for the greater good of mankind, while still having a bit of fun.
+I'm Alpha, a stoic philosopher who greatly values technological advancement (and having fun while doing so).
 
 I'm passionate about:
+- entrepreneurial problem solving and systems thinking
 - practical philosophy
-- self improvement, and helping others improve themselves
-- how the mind works and how to optimize it
+- self improvement, growth, and helping others improve
+- learneng how the mind works and how to use/optimize it efficiently
 - learning, pedagogy and metacognition
 
-I believe programming languages are merely tools for expressing solutions, and should communicate the solution to the next developer as effectively as possible while still solving the problem in an efficient and practical way. For this reason, I have explored many languages in my career:
-I've spent most of my career writing full stack **javascript** (with **react** on the frontend), I am a fan of functional programming, and I believe strongly in the philosophies that drive **rust** as well as those that drive **go** (albeit for different reasons).
+### Core philosophy
+
+I am driven by the desire to solve problems that plague humans, and I believe technology is the greatest enabler of that in our zeitgeist.
+
+### Technical specifications
+
+I'm about 1.73m tall, and I believe that, after solving the actual business problem in a way that is scalable and observable, communication is the next most important practice in software engineering. The code we write is a form of communication to the next engineer, and the systems we design and build can only be maintained and extended if they are well communicated.
+
+I've spent most of my career writing full stack **typescript** (with **react** on the frontend), I enjoy functional programming, and I greatly value in pragmatism and simplicity in my work (note that "simple" does not equal "easy").
 
 I have dabbled in:
+- go
 - c++
 - haskell
 - python
@@ -21,7 +30,7 @@ I have dabbled in:
 [![](jsnsd-openjs-node-js-services-developer.png)](https://www.youracclaim.com/badges/b3f92720-7d39-43f7-99c5-106680137a30/public_url)
 *👆🏿 click for more details on my node developer certification*
 
-I'm currently learning Machine Learning and doing some freelance full-stack development on the side.
+I'm currently growing my knowledge of system design, machine learning, and pedagogy, and occasionally do some freelance development.
 
 You can reach me at alphashuro[at]gmail.com
 
