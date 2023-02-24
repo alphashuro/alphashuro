@@ -13,9 +13,9 @@ I'm passionate about:
 
 I am driven by the desire to help humans, either by teaching them how to use the brain well, or by solving problems that plague humans, and I believe technology is the greatest enabler of that in our zeitgeist.
 
-### Technical spec
+### Tech specs
 
-I'm ~1.73m tall, and I believe that in readability and correctness. The code we write is communication to the next engineer, and the systems we design and build can only be maintained and extended if they are well communicated.
+I'm ~1.75m tall, and I believe that in readability and correctness. The code we write is communication to the next engineer, and the systems we design and build can only be maintained and extended if they are well communicated.
 
 I've spent most of my career writing full stack **[type|java]script** (with **react** on the frontend), I enjoy functional programming, and I greatly value in pragmatism and simplicity in my work ("simple" !== "easy").
 
