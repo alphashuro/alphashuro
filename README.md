@@ -8,6 +8,7 @@ core interests:
 - mental models and metacognition
 
 currently learning:
+
 - systems design
 - kotlin
 - how to innovate
