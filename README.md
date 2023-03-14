@@ -1,13 +1,11 @@
 core interests:
 
-- technological advancement
-- practical philosophy
-- mental models
-- cognitive science
-- pedagogy
-- code that is easy to understand
+- how to write code that is easy to understand
 - self improvement
 - having fun
+- technological advancement
+- practical philosophy
+- mental models and metacognition
 
 currently learning:
 - systems design
