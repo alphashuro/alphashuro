@@ -1,17 +1,15 @@
-core interests:
+interests:
 
-- how to write code that is easy to understand
+- information architecture: how to make solutions to complex problems easier to understand and build, especially in a team setting
+- mental models and metacognition: how to think more efficiently, how to communicate, and how to transfer skills faster
 - self improvement
-- having fun
-- technological advancement
 - practical philosophy
-- mental models and metacognition
 
-currently learning:
+currently working on:
 
-- systems design
-- kotlin
-- how to innovate
+- learning programming language design and implementation by working through [crafting interpreters](https://craftinginterpreters.com) and building a programming language from scratch<sup>1</sup>
+- building a protocol (language) for defining interfaces between networked applications (really just a language for defining RPC over HTTP and websockets, but one that isn't tied to a specific language (e.g. trpc) and doesn't force a myriad of other opinions like transport and serialization methods on you (e.g. grpc))
+- learning purescript
 
 Fun fact: Some day in the far future, someone will have the very last memory of you for the very last time...
 
