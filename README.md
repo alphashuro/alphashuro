@@ -1,5 +1,3 @@
-Hi!
-
 I'm Alpha, a software engineer trying to find meaning in existence.
 
 My core interests:
@@ -13,4 +11,4 @@ other interests:
 - practical philosophy
 - PC games (Dota 2, Factorio ...)
 
-Fun fact: Some day in the far future, someone will have the very last memory of you for the very last time...
+Fun fact: Some day in the future, someone will have the very last thought/memory of you for the very last time...
