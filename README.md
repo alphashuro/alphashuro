@@ -1,4 +1,4 @@
-I'm Alpha, a software engineer trying to find meaning in existence.
+I'm a software engineer trying to find meaning in existence.
 
 My core interests:
 
