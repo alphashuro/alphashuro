@@ -1,9 +1,19 @@
-My interests:
+Hey there
 
-- Information architecture: how to make solutions to complex things simpler, so they're easier to understand and build
-- Mental models and metacognition: how to use the brain well, how to think efficiently, how to transfer thoughts and ideas to other humans, and how to transfer skills to other humans
-- Cognitive science: how "thinking" works and how to simulate/re-create it
-- Practical philosophy
-- PC games (Factorio, ...)
+I'm a software engineer, because I enjoy problem solving and I think tech is a good way to apply this to different aspects of human existence.
 
-Fun fact: Some day in the future, someone will have the very last thought/memory of you for the very last time...
+While building software, I sometimes nerd-snipe myself with
+
+- figuring out how to express complex ideas in simple easy-to-understand ways
+- using the type-system to make bad/wrong code harder and good/correct code easier to read and write
+- building a deep understanding of the things I'm building, and who I'm building it for
+
+Outside of software engineering, I'm also interested in:
+
+- Cognitive science: how "thinking" works, and how to apply the brain more effectively
+- Practical philosophy: raison d'être?
+- PC games (Factorio, StarCraft 2, DOTA 2...)
+
+My favourity quotes: 
+
+- Some day in the future, someone will have the very last thought/memory of you, for the very last time...
