@@ -11,7 +11,7 @@ While building software, I sometimes nerd-snipe myself with
 Outside of software engineering, I'm also interested in:
 
 - Cognitive science: how "thinking" works, and how to apply the brain more effectively
-- Practical philosophy: raison d'être?
+- Practical philosophy
 - PC games (Factorio, StarCraft 2, DOTA 2...)
 
 My favourity quotes: 
